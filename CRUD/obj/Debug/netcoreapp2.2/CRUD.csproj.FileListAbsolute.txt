@@ -1,0 +1,14 @@
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.csprojAssemblyReference.cache
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.csproj.CoreCompileInputs.cache
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.RazorAssemblyInfo.cache
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.RazorAssemblyInfo.cs
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.AssemblyInfoInputs.cache
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.AssemblyInfo.cs
+/home/chellappanrajan/DotNetWebApi/CRUD/bin/Debug/netcoreapp2.2/CRUD.deps.json
+/home/chellappanrajan/DotNetWebApi/CRUD/bin/Debug/netcoreapp2.2/CRUD.runtimeconfig.json
+/home/chellappanrajan/DotNetWebApi/CRUD/bin/Debug/netcoreapp2.2/CRUD.runtimeconfig.dev.json
+/home/chellappanrajan/DotNetWebApi/CRUD/bin/Debug/netcoreapp2.2/CRUD.dll
+/home/chellappanrajan/DotNetWebApi/CRUD/bin/Debug/netcoreapp2.2/CRUD.pdb
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.RazorTargetAssemblyInfo.cache
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.dll
+/home/chellappanrajan/DotNetWebApi/CRUD/obj/Debug/netcoreapp2.2/CRUD.pdb
