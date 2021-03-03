@@ -7,7 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using Todo.API.Models;
+using API.Models;
 using Microsoft.EntityFrameworkCore;
 
 

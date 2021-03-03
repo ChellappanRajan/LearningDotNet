@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace Todo.API.Models{
+namespace API.Models{
 
     public class ApiContext: DbContext
     {
